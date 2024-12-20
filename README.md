@@ -1,4 +1,4 @@
-👋 Hi, I'm Nicolas Petrunich (@NJPBioProjects)
+👋 Hi, I'm Nicolas Petrunich (@NJPBioInfoProjects)
 
 🎓 Bioinformatics MS Student at Boston University, with a strong foundation in biological sciences and data analysis.
 💻 Skilled in analyzing complex genomic datasets, developing computational tools, and utilizing bioinformatics pipelines for meaningful biological insights.
